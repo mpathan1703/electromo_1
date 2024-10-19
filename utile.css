@@ -1,0 +1,17 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.d_flex{
+display: flex;
+}
+.items_center{
+    align-items: center;
+}
+.gap_10{
+    gap: 10px;
+}
+.text_end{
+    text-align: end;
+}
